@@ -1,0 +1,312 @@
+div.dialog-off-canvas-main-canvas {
+  background-color: #000000;
+}
+
+div.main-container.container--version2.taxonomy_term--subsite.front--page {
+  background-color: #000000;
+}
+
+div h2 a {
+  color: #f3f3f3;
+}
+
+div.article__element.article__subtitle {
+  color: #f3f3f3;
+}
+
+section.mdc-top-app-bar__section.mdc-top-app-bar__section--mainmenu {
+  background-color: #000000;
+}
+
+ul li a {
+  color: #f3f3f3;
+  background-color: #000000;
+  padding-bottom: 10px;
+}
+
+li.has-dropdown.hover {
+  background-color: #000000;
+  border-style: none;
+}
+
+div.latest-topics__block {
+  background-color: #000000;
+  color: #ffffff;
+  border-style: none;
+}
+
+span.material-icons {
+  background-color: #000000;
+}
+
+span.item-label {
+  color: #ffffff;
+}
+
+section.mdc-top-app-bar__section.mdc-top-app-bar__section--subsite {
+  background-color: #000000;
+}
+
+div.burger-menu-button {
+  background-color: #000000;
+}
+
+li.item-topic {
+  border-style: none;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+li div ul {
+  border-style: none;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+a.link-to-comments {
+  color: #ffffff;
+}
+
+item-topic {
+  border-color: #ffffff;
+  border-style: none;
+}
+
+mdc-top-app-bar {
+  border-style: none;
+  background-color: #212121;
+}
+
+section.mdc-top-app-bar__section.mdc-top-app-bar__section--align-end {
+  background-color: #000000;
+}
+
+div.mdc-button.button--login.mdc-ripple-upgraded {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+span.mdc-button__label {
+  color: #ffffff;
+}
+
+i.material-icons-round.mdc-button__icon.icon--arrow {
+  color: #ffffff;
+}
+
+div.topics-button.topics-button-left {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+div.topics-button.topics-button-right.disabled {
+  border-style: none;
+  background-color: #000000;
+}
+
+div.mdc-layout-grid__inner.section-grid__inner {
+  background-color: #000000;
+  color: #ffffff;
+  border-color: #424242;
+}
+
+div.block-header {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+div.tm-block--list.jobs-horizontal-block {
+  background-color: #000000;
+}
+
+div.job-title {
+  color: #ffffff;
+}
+
+div.tm-block--list.jobs-vertical-block {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+span.latest-debate__author-name {
+  color: #ffffff;
+}
+
+div div p {
+  color: #ffffff;
+}
+
+div.latest-debate__links {
+  color: #ffffff;
+}
+
+span.additional-info--label {
+  color: #ffffff;
+}
+
+footer.footer.container.mu-footer.footer--version2 {
+  background-color: #000000;
+}
+
+div.footer__section {
+  background-color: #000000;
+}
+
+div.footer__section--title {
+  color: #ffffff;
+}
+
+span.comments-count-icon {
+  color: #ffffff;
+  background-color: #ffffff;
+}
+
+div div ul {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+div.copyright {
+  background-color: #000000;
+}
+
+div.footer-navigation {
+  background-color: #000000;
+}
+
+li.arrow {
+  color: #9ccc65;
+}
+
+div.main-container.container--version2.node--article {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+h1.article-header--title {
+  color: #ffffff;
+}
+
+div.article-summary {
+  color: #ffffff;
+}
+
+span.node-info {
+  color: #ffffff;
+}
+
+figcaption.image-caption.image-caption-full {
+  color: #ffffff;
+}
+
+div div h3 {
+  color: #ffffff;
+}
+
+div.node-fact-box.paragraph.paragraph--type--fact-box.paragraph--view-mode--preview {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+div div div {
+  color: #ffffff;
+}
+
+div.tags-add-follow {
+  background-color: #424242;
+  color: #ffffff;
+}
+
+a div img {
+  background-color: #ffffff;
+}
+
+div.spo-content-label {
+  background-color: #424242;
+}
+
+div div a {
+  color: #ffffff;
+}
+
+div.main-container.container--version2 {
+  background-color: #000000;
+}
+
+h1.tm-list-info-block--title {
+  color: #ffffff;
+}
+
+div.section__background-full-width {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+div.tm-block--list.most-debated-block {
+  background-color: #000000;
+}
+
+div.debate__header {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+div.debate__content {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+h2.block-header--title {
+  color: #ffffff;
+}
+
+div.mdc-tab.mdc-tab--active.mdc-ripple-upgraded {
+  color: #ffffff;
+}
+
+div.mdc-tab.mdc-ripple-upgraded {
+  color: #ffffff;
+}
+
+div div blockquote {
+  background-color: #424242;
+}
+
+a.comment-chronological {
+  color: #ffffff;
+  background-color: #000000;
+}
+
+h1.focus-name {
+  color: #ffffff;
+}
+
+span.material-icons-round {
+  color: #ffffff;
+}
+
+div.comment-author-role {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+div.subsite-menu-content {
+  background-color: #000000;
+}
+
+div.mdc-layout-grid__cell.cell-border-wrapper {
+  color: #75757;
+}
+
+div.cell-border-inner {
+  background-color: #424242;
+}
+
+ul.flex-direction-nav {
+  border-color: #000000;
+  border-style: solid;
+}
+
+a.flex-active {
+  background-color: #616161;
+}
