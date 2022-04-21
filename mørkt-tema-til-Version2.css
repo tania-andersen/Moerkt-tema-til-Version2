@@ -334,3 +334,15 @@ i.material-icons-round {
 div.primary-topic-list.primary-topic-fixed > a {
   background-color: #2a3136;
 }
+
+div.geshifilter {
+  background-color: #000000;
+}
+
+div.geshifilter::before {
+  background-color: #333333;
+}
+
+div pre ol {
+  color: #dddddd;
+}
