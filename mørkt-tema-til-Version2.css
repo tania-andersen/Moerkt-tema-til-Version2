@@ -391,3 +391,7 @@ div.vote-like a:hover::before
 div.vote-like a:hover span {
   color: #ffffff;
 }
+
+h2 {
+  color: #ffffff;
+}
