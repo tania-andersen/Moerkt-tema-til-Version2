@@ -346,3 +346,52 @@ div.geshifilter::before {
 div pre ol {
   color: #dddddd;
 }
+
+nav.profile-wrapper {
+  background-color: #424242;
+}
+
+nav.profile-wrapper:hover {
+  background-color: #616161;
+}
+
+div.CodeMirror {
+  background-color: #424242;
+}
+
+pre.CodeMirror-line {
+  color: #f3f3f3;
+}
+
+span.email {
+  color: #dddddd;
+}
+
+span.cm-quote.cm-quote-1 {
+  color: #aaaaaa;
+}
+
+span.cm-link {
+  color: #aaaaaa;
+}
+
+::selection {
+  background-color: #689f38;
+}
+
+figcaption.image-caption {
+  color: #aaaaaa;
+}
+
+div.vote-like a:hover::before
+{
+  color: #ffffff;
+}
+
+div.vote-like a:hover span {
+  color: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+}
