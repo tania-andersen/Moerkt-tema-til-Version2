@@ -346,3 +346,19 @@ div.geshifilter::before {
 div pre ol {
   color: #dddddd;
 }
+
+nav.profile-wrapper {
+  background-color: #616161;
+}
+
+div.CodeMirror {
+  background-color: #424242;
+}
+
+pre.CodeMirror-line {
+  color: #f3f3f3
+}
+
+span.email {
+  color: #dddddd
+}
