@@ -348,6 +348,10 @@ div pre ol {
 }
 
 nav.profile-wrapper {
+  background-color: #424242;
+}
+
+nav.profile-wrapper:hover {
   background-color: #616161;
 }
 
