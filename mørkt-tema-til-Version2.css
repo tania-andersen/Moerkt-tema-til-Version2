@@ -382,3 +382,12 @@ span.cm-link {
 figcaption.image-caption {
   color: #aaaaaa;
 }
+
+div.vote-like a:hover::before
+{
+  color: #ffffff;
+}
+
+div.vote-like a:hover span {
+  color: #ffffff;
+}
