@@ -6,10 +6,6 @@ div.main-container.container--version2.taxonomy_term--subsite.front--page {
   background-color: #2a3136;
 }
 
-div h2 a {
-  color: #f3f3f3;
-}
-
 div.article__element.article__subtitle {
   color: #f3f3f3;
 }
@@ -356,9 +352,25 @@ div.CodeMirror {
 }
 
 pre.CodeMirror-line {
-  color: #f3f3f3
+  color: #f3f3f3;
 }
 
 span.email {
-  color: #dddddd
+  color: #dddddd;
+}
+
+span.cm-quote.cm-quote-1 {
+  color: #aaaaaa;
+}
+
+span.cm-link {
+  color: #aaaaaa;
+}
+
+::selection {
+  background-color: #689f38;
+}
+
+figcaption.image-caption {
+  color: #aaaaaa  
 }
